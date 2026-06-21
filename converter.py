@@ -51,7 +51,7 @@ def bar_to_psi(bar):
 
 def main():
     print("============================================")
-    print("   MECHANICAL ENGINEER'S UNIT CONVERTER")
+    print("   JITHU'S MECHANICAL ENGINEER UNIT CONVERTER")
     print("============================================")
 
     while True:
