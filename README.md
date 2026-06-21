@@ -8,7 +8,7 @@ Clone this repository and open it in your favourite editor.
 
 ## Features
 
-- Explore Claude Code capabilites directly from your desktop
+- Explore Claude Code capabilities directly from your desktop
 - Run scripts, manage files, and open pull requests with AI assistance
 
 ## Requirements
